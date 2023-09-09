@@ -1,0 +1,27 @@
+{
+  "name": "gae-log",
+  "version": "1.0.0",
+  "description": "Simple GCP Stackdriver logging for App Engine Flex",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingyship/blog-code.git"
+  },
+  "keywords": [
+    "GCP",
+    "Stackdriver",
+    "App",
+    "Engine",
+    "Flex",
+    "Logging"
+  ],
+  "author": "Leo Shao",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dingyship/blog-code/issues"
+  },
+  "homepage": "https://github.com/dingyship/blog-code#readme"
+}
